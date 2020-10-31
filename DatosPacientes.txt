@@ -1,0 +1,13 @@
+4
+Paul,11,2
+Tos
+Fiebre
+John,12,3
+Tos
+Dolor de Garganta
+Fiebre
+Helen,13,1
+Perdida de olfato
+Sarah,14,2
+Perdida del gusto
+Fiebre
